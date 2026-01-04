@@ -1,0 +1,5 @@
+{
+  "name": "Doodle Jump Clone",
+  "description": "A high-performance, mobile-responsive recreation of the classic Doodle Jump game featuring physics-based gameplay, infinite scrolling, and cross-platform controls.",
+  "requestFramePermissions": []
+}
